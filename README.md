@@ -16,11 +16,11 @@ Week 1: Data Cleaning & Preprocessing
 Week 2: Exploratory Data Analysis (EDA)
 
 **Tools & Technologies**
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn.
 
 **Week 1: Data Preprocessing**
 Tasks Performed:
