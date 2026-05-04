@@ -12,6 +12,7 @@ Scope (Week 1 & Week 2)
 **This submission covers:**
 
 Week 1: Data Cleaning & Preprocessing
+
 Week 2: Exploratory Data Analysis (EDA)
 
 **Tools & Technologies**
